@@ -1,4 +1,4 @@
-# VBA Homework: The VBA of Wall Street
+# Annual Stock Performance Macro
 
 ## Background
 
