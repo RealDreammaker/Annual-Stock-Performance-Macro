@@ -2,7 +2,7 @@
 
 ## Background
 
-In this assignment, VBA scripting was created to analyze real stock market data.
+In this assignment, a VBA script was build for analyse real stock market data.
 
 ### Files
 
@@ -13,7 +13,7 @@ In this assignment, VBA scripting was created to analyze real stock market data.
 
 ## The script features:
 
-* The a script will loop through all the stocks for one year and output the following information:
+* The script will loop through all the stocks for one year and output the following information:
 
   * The ticker symbol.
 
