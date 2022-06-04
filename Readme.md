@@ -2,7 +2,7 @@
 
 ## Background
 
-In this assignment, a VBA script was build for analyse real stock market data.
+In this assignment, a VBA script was build for real stock market data analysis.
 
 ### Files
 
@@ -29,7 +29,7 @@ In this assignment, a VBA script was build for analyse real stock market data.
 
 ## What's included
 
-* A screen shot for each year of  results on the Multi Year Stock Data.
+* A screen shot for each year of results on the Multi Year Stock Data.
 ![2014 screenshot](images/Screenshot2014.png)
 ![2015 screenshot](images/Screenshot2015.png)
 ![2016 screenshot](images/Screenshot2016.png)
