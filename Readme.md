@@ -30,9 +30,9 @@ In this assignment, a VBA script was build for analyse real stock market data.
 ## What's included
 
 * A screen shot for each year of  results on the Multi Year Stock Data.
-![2014 screenshot](Screenshot2014.png)
-![2015 screenshot](Screenshot2015.png)
-![2016 screenshot](Screenshot2016.png)
+![2014 screenshot](images/Screenshot2014.png)
+![2015 screenshot](images/Screenshot2015.png)
+![2016 screenshot](images/Screenshot2016.png)
 
 * [VBA scripts](VBA_challenge.vb) as a separate file.
 
